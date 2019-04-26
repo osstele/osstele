@@ -1,0 +1,46 @@
+<html>
+<head> 
+<meta name="google-site-verification" content="mgzX7O17RKRvle0o8C2pGespZzCYccvD1djslQFmpKc" />
+
+
+<h1><center> OSS-INSURANCE  </center></h1>
+</head>
+
+
+
+<div style="background-color:black; color:white; margin:20px; padding:20px;">
+
+<h2> Policy </h2>
+
+
+<H3 > We secure your future,Compare Market prices and provide you the best deals for a secure future. Some of the insurances that we offer are as follows Life insurance,Travel insurance, Health insurance for women,Family health care insurance and  Business insurance from wide varity of companies that will give you accurate details regarding your hard earned money and the intrest earned. We believe that each of our clients have diffrent needs and needs to be addressed with a individual policies.   </H3>
+
+
+</div>
+
+ <Center> <img src="insurance.png" alt="Mountain View" style="width:1300px;height:115px"> </center>
+
+<p> <h3> Polocies Offered </h3></p>
+
+
+<P> .Life Insurance  .Travel Insurance .Health Insurnace  .Womens Insurnace  .Family Insuarnace  .Business Insurance </p>
+
+<p> # Dont bother about the market flucations . </p>
+<p> # Personal care for each customre  </P> 
+<p> # We cover all the paper work  and communication </P> 
+<p> # Ensure that we visit you and keep you updated </p> 
+
+
+
+
+
+
+
+
+<body background="w3s.png">
+
+
+</body> 
+<p> <center><a href ="Index.html">Index</a>||<a href ="secondpage.html"> About us</a>||<a  href ="thirdpage.html"> Contact us</a>   </center></p>
+
+</html>
